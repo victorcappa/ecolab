@@ -29,7 +29,7 @@ AR experience with multiple image targets, 3D models, animation, 3D interactivit
   
 ![ezgif com-optimize-2](https://github.com/victorcappa/ecolab/assets/40408965/d49f6116-2c25-4762-89e0-f43aea38a45b)
  
-<div id="photos" style="display: flex; flex-wrap: wrap;">
+<div id="photos" style="display: flex !important; flex-wrap: wrap !important;">
   <img src="https://github.com/victorcappa/ecolab/assets/40408965/f46a9702-880d-4e12-8cb0-5577a8d763ca" style="width: 50%; height: 50%;">
   <img src="https://github.com/victorcappa/ecolab/assets/40408965/78cb9e8b-d4d8-488f-9c56-d2985098e082" style="width: 50%; height: 50%;">
   <img src="https://github.com/victorcappa/ecolab/assets/40408965/a2e0e864-3192-4197-848b-83cf4bdb3920" style="width: 50%; height: 50%;">
