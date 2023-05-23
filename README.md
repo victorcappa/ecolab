@@ -29,15 +29,15 @@ AR experience with multiple image targets, 3D models, animation, 3D interactivit
   
 ![ezgif com-optimize-2](https://github.com/victorcappa/ecolab/assets/40408965/d49f6116-2c25-4762-89e0-f43aea38a45b)
  
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://github.com/victorcappa/ecolab/assets/40408965/f46a9702-880d-4e12-8cb0-5577a8d763ca" style="width: 25vw; height: 25vh;">
-  <img src="https://github.com/victorcappa/ecolab/assets/40408965/78cb9e8b-d4d8-488f-9c56-d2985098e082" style="width: 25vw; height: 25vh;">
-  <img src="https://github.com/victorcappa/ecolab/assets/40408965/a2e0e864-3192-4197-848b-83cf4bdb3920" style="width: 25vw; height: 25vh;">
-  <img src="https://github.com/victorcappa/ecolab/assets/40408965/aabdcda1-08ae-457d-b740-e74cd4499d75" style="width: 25vw; height: 25vh;">
-  <img src="https://github.com/victorcappa/ecolab/assets/40408965/530e16b8-10b3-4b21-b926-eb3671b91088" style="width: 25vw; height: 25vh;">
-  <img src="https://github.com/victorcappa/ecolab/assets/40408965/54da2d92-6535-4ab0-b6cf-900659404520" style="width: 25vw; height: 25vh;">
-  <img src="https://github.com/victorcappa/ecolab/assets/40408965/ddbc80ca-c54c-4de2-ad65-f7b81c5c942d" style="width: 25vw; height: 25vh;">
-  <img src="https://github.com/victorcappa/ecolab/assets/40408965/bd9fba00-7efa-4ac7-9020-c7ab57e329b9" style="width: 25vw; height: 25vh;">
+<div id="photos" style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/victorcappa/ecolab/assets/40408965/f46a9702-880d-4e12-8cb0-5577a8d763ca" style="width: 50%; height: 50%;">
+  <img src="https://github.com/victorcappa/ecolab/assets/40408965/78cb9e8b-d4d8-488f-9c56-d2985098e082" style="width: 50%; height: 50%;">
+  <img src="https://github.com/victorcappa/ecolab/assets/40408965/a2e0e864-3192-4197-848b-83cf4bdb3920" style="width: 50%; height: 50%;">
+  <img src="https://github.com/victorcappa/ecolab/assets/40408965/aabdcda1-08ae-457d-b740-e74cd4499d75" style="width: 50%; height: 50%;">
+  <img src="https://github.com/victorcappa/ecolab/assets/40408965/530e16b8-10b3-4b21-b926-eb3671b91088" style="width: 50%; height: 50%;">
+  <img src="https://github.com/victorcappa/ecolab/assets/40408965/54da2d92-6535-4ab0-b6cf-900659404520" style="width: 50%; height: 50%;">
+  <img src="https://github.com/victorcappa/ecolab/assets/40408965/ddbc80ca-c54c-4de2-ad65-f7b81c5c942d" style="width: 50%; height: 50%;">
+  <img src="https://github.com/victorcappa/ecolab/assets/40408965/bd9fba00-7efa-4ac7-9020-c7ab57e329b9" style="width: 50%; height: 50%;">
 </div>
 
 
