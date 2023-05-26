@@ -1,7 +1,5 @@
 # ecolab
 Ecolab - See the Unseen AR Campaign
-# geekspeak Aniversary
-AR Experience to celebrate 20 years of Canadian company, geekspeak
 
 <div id="top"></div>
 
